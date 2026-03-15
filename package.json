@@ -1,0 +1,10 @@
+{
+  "name": "advoot-live-web",
+  "version": "1.0.0",
+  "description": "Advoot TV Live Streaming Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {}
+}
